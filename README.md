@@ -1,5 +1,5 @@
 # deviceDetector
-Device detection mechanism will replace the body class by using javascript. 
+Device detection mechanism will replace the body dev-<<device>> class by using javascript. 
 
 ### Detection mechanism depends on window.matchMedia
 `window.matchMedia`
