@@ -14,11 +14,11 @@ Device detection mechanism will replace the body dev-<<device>> class by using j
 
 ```js
 var size = {
-		w: 'wide',
-    d: 'desktop',
-    l: 'landscape',
-    p: 'potrait',
-    m: 'mobile'
+	w: 'wide',
+	d: 'desktop',
+	l: 'landscape',
+	p: 'potrait',
+	m: 'mobile'
 };
 
 if (window.matchMedia("(max-width: 380px)").matches) {
